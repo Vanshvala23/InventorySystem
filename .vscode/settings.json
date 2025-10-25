@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\itextpdf-5.5.4.jar",
+        "c:\\Users\\vansh\\Documents\\Java\\Development\\InventorySystem\\lib\\mysql-connector-j-9.5.0.jar"
+    ]
+}
