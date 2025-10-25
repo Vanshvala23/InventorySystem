@@ -59,7 +59,7 @@ public class InventoryManagementSystem extends JFrame {
     private final NumberFormat currency = NumberFormat.getCurrencyInstance();
 
     public InventoryManagementSystem() {
-        setTitle("🛒 THE MALL - POS Cash Counter");
+        setTitle("🛒 Aadhar MALL - POS Cash Counter");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setSize(1200, 720);
         setLocationRelativeTo(null);
@@ -89,7 +89,7 @@ public class InventoryManagementSystem extends JFrame {
         header.setBorder(BorderFactory.createEmptyBorder(12, 16, 12, 16));
 
         // Left: logo + title
-        JLabel lblLogo = new JLabel("🛒  THE MALL - CASH COUNTER");
+        JLabel lblLogo = new JLabel("🛒  Aadhar Mall - CASH COUNTER");
         lblLogo.setForeground(Color.WHITE);
         lblLogo.setFont(new Font("SansSerif", Font.BOLD, 20));
         header.add(lblLogo, BorderLayout.WEST);
